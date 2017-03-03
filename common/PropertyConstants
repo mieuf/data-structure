@@ -1,0 +1,5 @@
+package common;
+
+public class PropertyConstants{
+    public static int MAX_SIZE = 1000;
+}
